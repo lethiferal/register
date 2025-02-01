@@ -1,0 +1,16 @@
+{
+    "description": "Creative plugins and devices",
+    "domain": "is-cool.dev",
+    "subdomain": "serpent",
+
+    "owner": {
+        "repo": "https://github.com/lethiferal/sgreg",
+        "email": "lethiferal@mail.com"
+    },
+
+    "record": {
+        "A": ["34.117.223.165"],
+    },
+
+    "proxied": false
+}
